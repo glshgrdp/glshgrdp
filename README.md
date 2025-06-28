@@ -20,6 +20,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
+![Animation](https://github.com/user-attachments/assets/1eb2115e-3415-499d-907d-7acb02d7e2a3)
+
+
 ![Visitor Badge](https://komarev.com/ghpvc/?username=glshgrdp&style=flat-square&color=blue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glshgrdp&layout=compact&theme=default)
 ![Gülşah's GitHub stats](https://github-readme-stats.vercel.app/api?username=glshgrdp&show_icons=true&theme=default)
