@@ -1,7 +1,8 @@
  
+![Coding Software Developer GIF by CodeRower](https://github.com/user-attachments/assets/2eefb1a2-1625-4ab0-95cb-2de4d3097b60)
 
  
-### Hi there 👋 I'm Gülşah ### Full-Stack Developer | Bilingual Educator ![Uploading Coding Software Developer GIF by CodeRower.gif…]()
+### Hi there 👋 I'm Gülşah ### Full-Stack Developer | Bilingual Educator 
 
 > “Coffee-powered backend developer ☕ | Code, debug, repeat.”
 🔭 I’m currently working on **Patika+ Fullstack Bootcamp**
