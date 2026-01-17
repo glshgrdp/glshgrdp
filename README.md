@@ -1,13 +1,13 @@
-### Hi there 👋 I'm Gülşah
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2x5MjA3YzQxYXRmNHQ2bTg5cW9qaDRvbzV3empwYXQ3NjczM2FybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eRIvTqn3CW1kYPpVXh/giphy.gif
+### Hi there 👋 I'm Gülşah ### Full-Stack Developer | Bilingual Educator
 > “Coffee-powered backend developer ☕ | Code, debug, repeat.”
-
-
-🎓 Gratuated student specialized in backend development.  
-💻 Skilled in Java, Spring Boot, SQL, and RESTful API design. Currently deepening my knowledge in Docker and system architecture.  
+🔭 I’m currently working on **Patika+ Fullstack Bootcamp**
+🌱 I’m currently learning **Spring Boot & Advanced React**
+💬 Ask me about **Java, Spanish or Project Coordination**
+📫 How to reach me: **gulsahballi@gmail.com** | [LinkedIn](https://www.linkedin.com/in/g%C3%BCl%C5%9Fah-balli-girdap-36835a231gulsahballigirdap1/)
+💻 Skilled in Java, Spring Boot, SQL, and RESTful API design. 
 🚀 Actively building scalable backend applications and completing hands-on training in backend.  
 📂 Recent project: Veterinary Management System – a Java-based system with appointment tracking, treatment history.  
-📫 Reach me at: gulsahballi@gmail.com | [LinkedIn](https://www.linkedin.com/in/g%C3%BCl%C5%9Fah-balli-girdap-36835a231gulsahballigirdap1/)
-
 💡 Passionate about writing clean code, learning new technologies, and solving real-world problems through backend systems.
   
 
