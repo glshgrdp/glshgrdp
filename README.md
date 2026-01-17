@@ -1,3 +1,5 @@
+![Coding Software Developer GIF by CodeRower](https://github.com/user-attachments/assets/60a37303-d6e0-499e-a41e-7aa63f0189ed)
+
 https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2x5MjA3YzQxYXRmNHQ2bTg5cW9qaDRvbzV3empwYXQ3NjczM2FybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eRIvTqn3CW1kYPpVXh/giphy.gif
 ### Hi there 👋 I'm Gülşah ### Full-Stack Developer | Bilingual Educator
 > “Coffee-powered backend developer ☕ | Code, debug, repeat.”
