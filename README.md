@@ -16,19 +16,22 @@
 
 
 
+---
 
+### 🚀 About Me
+- 🔭 I’m currently working on **Patika+ Fullstack Bootcamp**
+- 🌱 I’m currently learning **Spring Boot & Advanced React**
+- 💬 Ask me about **Java, Spanish or Project Coordination**
+- 📫 How to reach me: [gulsahballi@gmail.com](mailto:gulsahballi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/g%C3%BCl%C5%9Fah-balli-girdap-36835a231)
 
--🔭 I’m currently working on **Patika+ Fullstack Bootcamp**
--🌱 I’m currently learning **Spring Boot & Advanced React**
--💬 Ask me about **Java, Spanish or Project Coordination**
--📫 How to reach me: **gulsahballi@gmail.com** | [LinkedIn](https://www.linkedin.com/in/g%C3%BCl%C5%9Fah-balli-girdap-36835a231gulsahballigirdap1/)
--💻 Skilled in Java, Spring Boot, SQL, and RESTful API design. 
--🚀 Actively building scalable backend applications and completing hands-on training in backend.  
--📂 Recent project: Veterinary Management System – a Java-based system with appointment tracking, treatment history.  
--💡 Passionate about writing clean code, learning new technologies, and solving real-world problems through backend systems.
+---
+
+### 💻 Technical Profile
+- 🛠 **Skills:** Skilled in Java, Spring Boot, SQL, and RESTful API design.
+- 🚀 **Activity:** Actively building scalable backend applications and completing hands-on training in backend.
+- 📂 **Recent Project:** **Veterinary Management System** – a Java-based system with appointment tracking and treatment history.
+- 💡 **Goal:** Passionate about writing clean code, learning new technologies, and solving real-world problems through backend systems.
   
-
-<br/>  
 
 
 ## My Skill Set  
