@@ -106,8 +106,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-https://img.shields.io/bundlephobia/:format/:packageName
-
+ 
 
 
 ![Animation](https://github.com/user-attachments/assets/1eb2115e-3415-499d-907d-7acb02d7e2a3)
