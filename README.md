@@ -1,18 +1,31 @@
+<table border="0">
+  <tr>
+    <td width="300">
+      <img src="https://github.com/user-attachments/assets/2eefb1a2-1625-4ab0-95cb-2de4d3097b60" width="100%" />
+    </td>
+    <td>
+      <h1>Hi there 👋 I'm Gülşah</h1>
+      <h3>Full-Stack Developer | Bilingual Educator</h3>
+      <p>Coffee-powered backend developer ☕ | Code, debug, repeat.</p>
+    </td>
+  </tr>
+</table> 
  
-![Coding Software Developer GIF by CodeRower](https://github.com/user-attachments/assets/2eefb1a2-1625-4ab0-95cb-2de4d3097b60)
 
- 
-### Hi there 👋 I'm Gülşah ### Full-Stack Developer | Bilingual Educator 
 
-> “Coffee-powered backend developer ☕ | Code, debug, repeat.”
-🔭 I’m currently working on **Patika+ Fullstack Bootcamp**
-🌱 I’m currently learning **Spring Boot & Advanced React**
-💬 Ask me about **Java, Spanish or Project Coordination**
-📫 How to reach me: **gulsahballi@gmail.com** | [LinkedIn](https://www.linkedin.com/in/g%C3%BCl%C5%9Fah-balli-girdap-36835a231gulsahballigirdap1/)
-💻 Skilled in Java, Spring Boot, SQL, and RESTful API design. 
-🚀 Actively building scalable backend applications and completing hands-on training in backend.  
-📂 Recent project: Veterinary Management System – a Java-based system with appointment tracking, treatment history.  
-💡 Passionate about writing clean code, learning new technologies, and solving real-world problems through backend systems.
+
+
+
+
+
+-🔭 I’m currently working on **Patika+ Fullstack Bootcamp**
+-🌱 I’m currently learning **Spring Boot & Advanced React**
+-💬 Ask me about **Java, Spanish or Project Coordination**
+-📫 How to reach me: **gulsahballi@gmail.com** | [LinkedIn](https://www.linkedin.com/in/g%C3%BCl%C5%9Fah-balli-girdap-36835a231gulsahballigirdap1/)
+-💻 Skilled in Java, Spring Boot, SQL, and RESTful API design. 
+-🚀 Actively building scalable backend applications and completing hands-on training in backend.  
+-📂 Recent project: Veterinary Management System – a Java-based system with appointment tracking, treatment history.  
+-💡 Passionate about writing clean code, learning new technologies, and solving real-world problems through backend systems.
   
 
 <br/>  
