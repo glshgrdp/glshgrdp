@@ -13,8 +13,8 @@
  
 ## 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/g%C3%BCl%C5%9Fah-balli-girdap-36835a231/)
-[![Email](https://img.shields.io/badge/Email-Send-red)](mailto: gulsahballi@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/gulsah-balli-girdap/)
+[![Email](https://img.shields.io/badge/Email-Send-red)](mailto:gulsahballi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/glshgrdp)
 
 
