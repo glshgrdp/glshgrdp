@@ -39,7 +39,34 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<h2>My Skill Set</h2>
+
+<table>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td align="center"><b>Backend</b></td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+
+</td>
+</tr>
+</table>
 
 
 
